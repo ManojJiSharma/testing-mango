@@ -25,8 +25,8 @@
   "_spec": "@blockworks-foundation/mango-client@3.0.20",
   "_where": "/home/imentus/testing",
   "author": {
-    "name": "Blockworks Foundation",
-    "email": "hello@blockworks.foundation",
+    "name": "Gemachain Foundation",
+    "email": ";info@Gemachain.com",
     "url": "https://blockworks.foundation"
   },
   "browserslist": [
@@ -36,7 +36,7 @@
     "maintained node versions"
   ],
   "bugs": {
-    "url": "https://github.com/blockworks-foundation/mango-client-v3/issues"
+    "url": "https://github.com/manojimentus/testing-mango/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -82,14 +82,14 @@
   "homepage": "https://github.com/blockworks-foundation/mango-client-v3#readme",
   "license": "MIT",
   "main": "lib/src/index.js",
-  "name": "@blockworks-foundation/mango-client",
+  "name": "@dainocreation/mango-client",
   "prettier": {
     "singleQuote": true,
     "trailingComma": "all"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blockworks-foundation/mango-client-v3.git"
+    "url": "git+https://github.com/manojimentus/testing-mango.git"
   },
   "resolutions": {
     "bn.js": "5.1.3",
